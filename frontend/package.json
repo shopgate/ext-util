@@ -2,5 +2,11 @@
   "name": "@shopgate/util",
   "version": "1.0.0",
   "description": "An awesome extesion for my awesome organization",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopgate/ext-util.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
 }
